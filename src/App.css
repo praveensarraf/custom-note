@@ -1,0 +1,16 @@
+.noteListScrollbar::-webkit-scrollbar{
+  width: 0.4em;
+}
+
+.noteListScrollbar::-webkit-scrollbar-track {
+  background: #f2f2f2;
+  border-radius: 20px;
+  box-shadow: inset 0 0 3px black;
+}
+
+.noteListScrollbar::-webkit-scrollbar-thumb {
+  background: #f2f2f2;
+  border-radius: 20px;
+  max-height: 15%;
+  box-shadow: inset 0 0 3px 2px black;
+}
