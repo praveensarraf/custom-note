@@ -2,7 +2,7 @@
 
 A minimal yet beautiful note-taking app built with **Vite + React**, styled using **Tailwind CSS** and **ShadCN UI**, and powered entirely by **localStorage**—no backend involved.
 
-> 🚀 [Live Demo](https://praveensarraf.github.io/custom-note/)
+> 🚀 [Live Demo](https://my-custom-note.netlify.app/)
 
 ---
 
